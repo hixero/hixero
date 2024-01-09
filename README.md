@@ -17,6 +17,7 @@
 ## Interest 👀
 <a href="https://www.typescriptlang.org" target='_blank'><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?&logo=TypeScript&logoColor=white"/></a>
 <a href="https://nestjs.com" target='_blank'><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white"/></a>
+<a href="https://docusaurus.io" target='_blank'><img alt="Docusaurus" src="https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white"/></a>
 
 ## Thanks to 🙏
 * [giphy.com](https://giphy.com/) for gifs
