@@ -7,7 +7,7 @@
 ## About Me ✨
 - 🔭 Studing in a university.
 - 💻 Programming for fun.
-- ⏳ Walking through life.
+- ⏳ Traveling through life.
 
 ## Learning 👨‍💻
 <a href="https://www.python.org" target='_blank'><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"/></a>
